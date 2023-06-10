@@ -1,1 +1,1 @@
-https://mrdebo.github.io/KipasAngin/
+<a href="https://mrdebo.github.io/KipasAngin">
